@@ -1,16 +1,17 @@
-### Hi there 👋
+# 🔭 My GitHub profile
+Welcome to my GitHub page! Here you can find a collection of projects I am currently working on and that I worked on. <br>
+Feel free to explore and reach out using the chgannels below if you have any questions or feedback.
 
-<!--
-**marcoimbee/marcoimbee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏗 Projects 
+Browse through my projects [here](https://github.com/marcoimbee?tab=repositories).
 
-Here are some ideas to get you started:
+## ⛷ Skills 
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,php)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,linux)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔗 Contact me
+  - Reach out to me via email at [marcoimbelli@yahoo.it](mailto:marcoimbelli@yahoo.it)
+  - Connect with me on [LinkedIn](www.linkedin.com/in/marco-imbelli-cai)
