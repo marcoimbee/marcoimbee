@@ -3,7 +3,7 @@ Welcome to my GitHub page! Here you can find a collection of projects I am curre
 Feel free to explore and reach out using the chgannels below if you have any questions or feedback.
 
 ## 🏗 Projects 
-Browse through my projects [here](https://github.com/marcoimbee?tab=repositories).
+Browse through my projects [here](https://github.com/marcoimbee?tab=repositories), or find some of them here below.
 
 ## ⛷ Skills 
   [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py)](https://skillicons.dev)
