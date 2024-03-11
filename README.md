@@ -5,13 +5,6 @@ Feel free to explore and reach out using the chgannels below if you have any que
 ## 🏗 Projects 
 Browse through my projects [here](https://github.com/marcoimbee?tab=repositories), or find some of them here below.
 
-## ⛷ Skills 
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,php)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=git,linux)](https://skillicons.dev)
-
-
 ## 🔗 Contact me
   - Reach out to me via email at [marcoimbelli@yahoo.it](mailto:marcoimbelli@yahoo.it)
   - Connect with me on [LinkedIn](www.linkedin.com/in/marco-imbelli-cai)
