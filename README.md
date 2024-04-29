@@ -1,6 +1,6 @@
 # My GitHub profile
 Here you can find a collection of projects I am currently working on and that I worked on. <br>
-Feel free to explore and reach out using the chgannels below if you have any questions or feedback.
+Feel free to explore and reach out using the channels below if you have any questions or feedback.
 
 ## Projects 
 Browse through my projects [here](https://github.com/marcoimbee?tab=repositories), or find some of them here below.
