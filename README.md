@@ -7,4 +7,4 @@ Browse through my projects [here](https://github.com/marcoimbee?tab=repositories
 
 ## 🔗 Contact me
   - Reach out to me via email at marcoimbelli_at_yahoo.it (please substitute '\_at\_' with '@')
-  - Connect with me on [LinkedIn](www.linkedin.com/in/marco-imbelli-cai)
+  - Connect with me on [LinkedIn](linkedin.com/in/marco-imbelli-cai)
