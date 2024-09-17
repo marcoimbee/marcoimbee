@@ -1,5 +1,5 @@
 # marcoimbee
-<div>
+<div align="center">
   <!-- PYTHON --> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40" /> &nbsp;
   <!-- C --> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" heigth="40" /> &nbsp;
   <!-- C++ --> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40" /> &nbsp;
@@ -15,7 +15,7 @@
 </div>
 
 ## In progress:
-<div>
+<div align="center">
   <!-- REACTJS --> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40" /> &nbsp;
   <!-- RUST --> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40" /> &nbsp;
   <!-- MONGODB --> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="MongoDB" alt="MongoDB" width="40" height="40" /> &nbsp;
