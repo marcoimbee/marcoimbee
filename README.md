@@ -9,14 +9,15 @@
   <!-- PHP --> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="php" alt="php" width="40" height="40" /> &nbsp;
   <!-- MYSQL --> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40" /> &nbsp;
   <!-- KOTLIN --> <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg" title="Kotlin" alt="Kotlin" width="40" height="40" /> &nbsp; 
-  <!-- GIT --> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="40" height="40"/> &nbsp;
+  <!-- GIT --> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="40" height="40" /> &nbsp;
   <!-- VSCODE --> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="40" height="40"/> &nbsp;
-  <!-- INTELLIJ --> <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"/> &nbsp;
+  <!-- INTELLIJ --> <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40" /> &nbsp;
 </div>
 
 ## In progress:
 <div>
-  <!-- REACTJS --> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/> &nbsp;
+  <!-- REACTJS --> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40" /> &nbsp;
+  <!-- RUST --> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40" /> &nbsp;
   <!-- MONGODB --> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="MongoDB" alt="MongoDB" width="40" height="40" /> &nbsp;
   <!-- NEO4J --> <img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original-wordmark.svg" title="Neo4J" alt="Neo4J" width="40" height="40" /> &nbsp;
   <!-- AWS --> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40" /> &nbsp; 
