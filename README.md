@@ -14,7 +14,7 @@
   <!-- INTELLIJ --> <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40" /> &nbsp;
 </div>
 
-## In progress:
+## In progress (i am truly trying my hardest):
 <div align="center">
   <!-- REACTJS --> <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40" /> &nbsp; -->
   <!-- RUST --> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40" /> &nbsp;
