@@ -22,13 +22,13 @@
   <!-- REACTJS --> <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40" /> &nbsp; -->
   <!-- RUST --> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40" /> &nbsp;
 <!--   DOCKER --> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40" /> &nbsp;
-  <!-- AWS --> <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40" /> &nbsp;  -->
+  <!-- AWS --> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40" /> &nbsp;
   <!-- SWIFT --> <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40" /> &nbsp; -->
 </div>
 
 ## 🔗 Contact me
-  - Email (please substitute '\_at\_' with '@'):
+  - Email (please replace '\_at\_' with '@'):
       - marcoimbelli_at_yahoo.it
       - marcoimbelli_at_gmail.com
-      - m.imbellicai_at_studenti.unipi.it
+      <!-- - m.imbellicai_at_studenti.unipi.it -->
   - [LinkedIn](https://www.linkedin.com/in/marco-imbelli-cai/)
