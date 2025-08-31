@@ -2,7 +2,7 @@
 <div align="center">
   <!-- JAVA --> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40" /> &nbsp;
   <!-- PYTHON --> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40" /> &nbsp;
-  <!-- C --> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" heigth="40" /> &nbsp;
+  <!-- C --> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" heigth="40" /> &nbsp;
   <!-- C++ --> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40" /> &nbsp;
   <!-- HTML5 --> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" /> &nbsp;
   <!-- CSS3 --> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40" /> &nbsp;
@@ -20,10 +20,10 @@
 ## In progress:
 <div align="center">
   <!-- REACTJS --> <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40" /> &nbsp; -->
+  <!-- GO --> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40" /> &nbsp;
   <!-- RUST --> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40" /> &nbsp;
 <!--   DOCKER --> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40" /> &nbsp;
   <!-- AWS --> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40" /> &nbsp;
-  <!-- SWIFT --> <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40" /> &nbsp; -->
 </div>
 
 ## 🔗 Contact me
