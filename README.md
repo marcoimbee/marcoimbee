@@ -24,7 +24,7 @@
   <!-- RUST --> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40" /> &nbsp;
 <!--   DOCKER --> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40" /> &nbsp;
   <!-- AWS --> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40" /> &nbsp;
-  <!-- NODEJS --> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40" /> &nbsp;
+  <!-- NODEJS --> <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40" /> &nbsp; -->
 </div>
 
 ## 🔗 Contact me
