@@ -17,7 +17,7 @@
   <!-- INTELLIJ --> <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40" /> &nbsp;
 </div>
 
-## In progress:
+## In progress
 <div align="center">
   <!-- REACTJS --> <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40" /> &nbsp; -->
   <!-- GO --> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40" /> &nbsp;
